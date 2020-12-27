@@ -1,1 +1,1 @@
-# learning_data_science
+# HOML code snippets and exercises
